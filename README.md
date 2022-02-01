@@ -9,4 +9,6 @@ Java projekts, kurs realize metama kaulina mesanu.
 - [x] izveidot Github retro
 - [x] Lokals projekts izvedots Github
 - [] papildinats Github kratuves saturs ieguts lokalai lietosanai
+- [] projekta izveidots jauns zars (branch)
+- [] Sapludinati zari un noversts merge konflikts
 ...
